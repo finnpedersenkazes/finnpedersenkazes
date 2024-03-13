@@ -1,6 +1,8 @@
 # Finn Pedersen France
 
-Hi there 👋. I am a freelance BC developer. 
+Hi there 👋. 
+
+I am a freelance BC developer. 
 
 But I do also perform consultant services like Code Reviews and Code Audits. 
 
