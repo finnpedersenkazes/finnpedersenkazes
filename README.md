@@ -18,6 +18,20 @@ If you are a BC developer searching for information every day, then this will he
 
 [Navigate BC](https://www.navigate-bc.com/)
 
+## Public Speaker
+
+I am giving talks on my favorite BC subjects. 
+
+[My profile at Sessionize](https://sessionize.com/finn-pedersen/)
+
+### 12-13 April, 2024
+At [Days of Knowledge Nordic 2024](https://www.directionsforpartners.com/conferences-and-events/days-of-knowledge/nordic-2024)
+I will be presenting
+- [The Clean AL Code Initiative](https://www.directionsforpartners.com/conferences-and-events/days-of-knowledge/nordic-2024/schedule?session=613714)
+- [Customizations in maintenance mode after Go-Live in the Cloud](https://www.directionsforpartners.com/conferences-and-events/days-of-knowledge/nordic-2024/schedule?day=13-04-2024&session=634199)
+
+I am looking forward to meeting you there.
+
 <!--
 **finnpedersenkazes/finnpedersenkazes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
