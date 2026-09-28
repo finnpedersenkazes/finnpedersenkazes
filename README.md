@@ -12,7 +12,7 @@ Read more about what a Code Audit of BC is in the following languages: [English]
 
 ### På dansk
 
-[Få lavet en tilstandsrapport. **Dansk**](https://www.finnpedersenfrance.com/DanskBlog/fa-lavet-en-tilstandsrapport/)
+[Få lavet en tilstandsrapport. **Dansk**](https://www.audit-bc.com/fa-lavet-en-tilstandsrapport/)
 
 ## Best Search Engine for finding AL programming related information
 
@@ -32,7 +32,7 @@ Here you can find blogposts about advanced Business Central development, but als
 
 Jeg skriver denne website om de tekniske aspekter af Business Central for beslutningstagere. Alt for mange ledere og beslutningstagere ved alt for lidt om hvad de kan bede om.
 
-[Dansk website for beslutningstagere der bruger BC. **Dansk**](https://www.finnpedersenfrance.com/DanskBlog)
+[Dansk website for beslutningstagere der bruger BC. **Dansk**](https://www.audit-bc.com/fa-lavet-en-tilstandsrapport/)
 
 ## Public Speaker
 
